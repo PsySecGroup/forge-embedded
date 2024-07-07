@@ -1,6 +1,6 @@
-Forge Embedded
+Embedded Forge
 ==============
-Forge Embedded lets you quickly lets you leverage common IoT features within WASM deployments for your embedded projects
+The Embedded Forge lets you quickly lets you leverage common IoT features within WASM deployments for your embedded projects
 
 Installation
 ============
